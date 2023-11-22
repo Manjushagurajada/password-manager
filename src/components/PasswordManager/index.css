@@ -1,0 +1,166 @@
+.container {
+  height: 100vh;
+  font-family: 'Roboto';
+  background-color: #9ba9eb;
+  padding: 50px;
+}
+
+.app-logo {
+  height: 50px;
+  width: 160px;
+  margin-bottom: 30px;
+}
+
+.details-card {
+  height: 42vh;
+  background-color: #5763a5;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.image {
+  height: 400px;
+  width: 400px;
+}
+
+.logo-container {
+  background-color: white;
+  height: 45px;
+  width: 45px;
+  padding: 10px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.form-element {
+  height: 350px;
+  width: 500px;
+  background-color: #454f84;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 40px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+
+.logo {
+  height: 20px;
+  width: 20px;
+  text-align: center;
+}
+
+.search-bar {
+  height: 45px;
+  background-color: white;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  width: 400px;
+  padding: 10px;
+}
+
+.password-heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.add-button {
+  background-color: #0b69ff;
+  color: white;
+  height: 40px;
+  width: 80px;
+  border-radius: 5px;
+  font-size: 16px;
+  border-width: 0px;
+}
+.button-container {
+  text-align: right;
+  margin-right: 13px;
+}
+
+.details-card-2 {
+  height: 42vh;
+  background-color: #5763a5;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 20px;
+}
+
+.search-container {
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  padding: 5px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.search-bar-2 {
+  height: 30px;
+  background-color: white;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  width: 200px;
+  padding: 10px;
+}
+
+.bottom-section-heading-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.show-password-container {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+}
+
+.checkbox {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+  margin-top: 16px;
+}
+
+.unordered-list {
+  display: flex;
+  flex-direction: row;
+}
+
+.span-el {
+  font-size: 14px;
+  border: 1px solid white;
+  border-radius: 30px;
+  padding: 10px;
+  margin-left: 5px;
+}
+
+.alignment {
+  text-align: center;
+  color: white;
+}
+
+.image-2 {
+  height: 200px;
+  width: 200px;
+}
+
+.margin {
+  margin-top: 15px;
+}
+
+.password-length {
+  display: flex;
+  flex-direction: row;
+  color: white;
+}

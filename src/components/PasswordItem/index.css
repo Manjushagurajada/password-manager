@@ -1,0 +1,35 @@
+.list-item {
+  list-style-type: none;
+  border-radius: 10px;
+  border: 1px solid white;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 300px;
+  color: white;
+  margin-right: 30px;
+}
+
+.delete-icon {
+  height: 20px;
+  width: 20px;
+  margin-top: 50px;
+}
+
+.initial-styling {
+  color: white;
+  background-color: #10b981;
+  border-radius: 60px;
+  padding: 30px;
+  font-size: 20px;
+}
+.stars-img {
+  height: 20px;
+  width: 140px;
+}
+
+.delete-button {
+  border-width: 0px;
+  background-color: transparent;
+}
